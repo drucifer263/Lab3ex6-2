@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FederalIncomeTax_6.2_X", "FederalIncomeTax_6.2_X\FederalIncomeTax_6.2_X.csproj", "{37AEC01A-C84A-46FA-83EC-1A2BC72DCBFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37AEC01A-C84A-46FA-83EC-1A2BC72DCBFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37AEC01A-C84A-46FA-83EC-1A2BC72DCBFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37AEC01A-C84A-46FA-83EC-1A2BC72DCBFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37AEC01A-C84A-46FA-83EC-1A2BC72DCBFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
